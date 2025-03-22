@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630442922038",
+    "project_id": "bloodline-bacbc",
+    "storage_bucket": "bloodline-bacbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630442922038:android:e96557a81b3fa4e7eec897",
+        "android_client_info": {
+          "package_name": "com.example.bloodline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx3fYKF6B6zejCEjgh42fKNXjnU1YE15A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
